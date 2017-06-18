@@ -1,0 +1,150 @@
+[
+  {
+    "name": "BAYELSA STATE",
+    "code": "BY"
+  },
+  {
+    "name": "RIVERS",
+    "code": "RI"
+  },
+  {
+    "name": "IMO STATE",
+    "code": "IM"
+  },
+  {
+    "name": "ABIA",
+    "code": "AB"
+  },
+  {
+    "name": "AKWA IBOM STATE",
+    "code": "AK"
+  },
+  {
+    "name": "ANAMBRA",
+    "code": "AN"
+  },
+  {
+    "name": "EBONYI STATE",
+    "code": "EB"
+  },
+  {
+    "name": "ENUGU",
+    "code": "EN"
+  },
+  {
+    "name": "DELTA",
+    "code": "DE"
+  },
+  {
+    "name": "CROSS RIVER STATE",
+    "code": "CR"
+  },
+  {
+    "name": "EDO",
+    "code": "ED"
+  },
+  {
+    "name": "EKITI STATE",
+    "code": "EK"
+  },
+  {
+    "name": "ONDO STATE",
+    "code": "ON"
+  },
+  {
+    "name": "OSUN STATE",
+    "code": "OS"
+  },
+  {
+    "name": "LAGOS",
+    "code": "LA"
+  },
+  {
+    "name": "OGUN STATE",
+    "code": "OG"
+  },
+  {
+    "name": "OYO",
+    "code": "OY"
+  },
+  {
+    "name": "BENUE STATE",
+    "code": "BE"
+  },
+  {
+    "name": "KOGI",
+    "code": "KO"
+  },
+  {
+    "name": "ABUJA",
+    "code": "FC"
+  },
+  {
+    "name": "KWARA STATE",
+    "code": "KW"
+  },
+  {
+    "name": "NIGER STATE",
+    "code": "NI"
+  },
+  {
+    "name": "NASARAWA STATE",
+    "code": "NA"
+  },
+  {
+    "name": "TARABA STATE",
+    "code": "TA"
+  },
+  {
+    "name": "PLATEAU",
+    "code": "PL"
+  },
+  {
+    "name": "GOMBE  STATE",
+    "code": "GO"
+  },
+  {
+    "name": "ADAMAWA STATE",
+    "code": "AD"
+  },
+  {
+    "name": "KADUNA",
+    "code": "KD"
+  },
+  {
+    "name": "BORNO STATE",
+    "code": "BO"
+  },
+  {
+    "name": "BAUCHI STATE",
+    "code": "BA"
+  },
+  {
+    "name": "KANO",
+    "code": "KN"
+  },
+  {
+    "name": "JIGAWA STATE",
+    "code": "JI"
+  },
+  {
+    "name": "YOBE STATE",
+    "code": "YO"
+  },
+  {
+    "name": "KASTINA STATE",
+    "code": "KT"
+  },
+  {
+    "name": "KEBBI STATE",
+    "code": "KE"
+  },
+  {
+    "name": "ZAMFARA STATE",
+    "code": "ZA"
+  },
+  {
+    "name": "SOKOTO STATE",
+    "code": "SO"
+  }
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F76400</color>
+    <color name="colorPrimaryDark">#cf5400</color>
+    <color name="colorAccent">#FFeB3B</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="greyText">#616161</color>
+    <color name="greyTextHint">#bdbdbd</color>
+    <color name="locationEnabledColor">#45b100</color>
+    <color name="locationDisabledColor">#e0e0e0</color>
+    <color name="chipBackground">#7f000000</color>
+    <color name="textTitle">#424242</color>
+    <color name="textSubTitle">#696969</color>
+    <color name="textBody">#616161</color>
+</resources>

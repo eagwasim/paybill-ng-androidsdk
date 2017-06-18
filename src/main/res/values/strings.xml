@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PayBill.NG</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_search">PayBill.NG</string>
+    <string name="action_settings">Settings</string>
+    <string name="searchhint">Search Organizations and Bills</string>
+    <string name="title_activity_organization_bill">OrganizationBillActivity</string>
+    <string name="title_activity_bill_detail">BillDetailActivity</string>
+    <string name="title_activity_bill_invoice">Bill Invoice</string>
+    <string name="title_activity_about">About PayBill.NG</string>
+    <string name="title_activity_payment">Payment</string>
+    <string name="payment_api_public_key">pk_live_3a22b8d52015469b2780bcd7f6d5084e5cbe7010</string>
+    <!-- pk_test_4efb5d6f90d7f0affc99aec426ebff35971d606d-->
+    <string name="client_token">eyJhbGciOiJIUzI1NiIsImV4cCI6MzA4NzEyNjk3NywiaWF0IjoxNDgwMDg2OTc3fQ.eyJLRVkiOiJBRkIzMzRCQzhDREIzRThEQUJEQzU3Q0E5NDdCQyJ9.3az_8UU7fQ1W2VjndEAJ2hLI31tqBDkqG4dwBAcBDVE</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+</resources>
